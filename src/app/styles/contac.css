@@ -1,0 +1,15 @@
+.main_div {
+  background-color: #00a8aa;
+  height: 200px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: absolute;
+  left: 40%;
+  top: 40%;
+  padding: 50px;
+  justify-content: center;
+ 
+}
+
