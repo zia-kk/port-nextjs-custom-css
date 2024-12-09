@@ -2,7 +2,7 @@ import Image from 'next/image'
 import React from 'react'
 import "../styles/Hero.css"
 import Link from 'next/link'
-Image
+
 
 const Hero = () => {
   return (

@@ -5,7 +5,7 @@ import "../styles/About.css"
 import { FaLinkedin } from "react-icons/fa6";
 import { FaGithub } from "react-icons/fa6";
 
-Image
+
 
 const About = () => {
   return (
